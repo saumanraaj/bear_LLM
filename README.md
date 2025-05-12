@@ -114,10 +114,3 @@ You may now interactively query the system.
 
 Developed by **Sauman Raaj**
 Contact: [sauman@bu.edu](mailto:sauman@bu.edu)
-
-```
-
----
-
-Let me know if you want a `requirements.txt` or `.gitignore` to go with it.
-```
