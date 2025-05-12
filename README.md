@@ -21,8 +21,8 @@ The RAG system functions as a static memory layer for the LLM, allowing it to si
 ```
 
 project/
-├── rag\_pipeline.py              # Main pipeline script
-├── filtered\_loader.py           # Custom PDF reader with page filtering
+├── rag_pipeline.py              # Main pipeline script
+├── filtered_loader.py           # Custom PDF reader with page filtering
 ├── gcs/                         # Cloned GitHub repository with GCS code
 ├── papers/                      # BEAR-related PDF documents
 └── README.md
